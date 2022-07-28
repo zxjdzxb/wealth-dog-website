@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wealth-dog-website/static/css/main.3be16d96.css",
+    "main.js": "/wealth-dog-website/static/js/main.6ee71535.js",
+    "index.html": "/wealth-dog-website/index.html",
+    "main.3be16d96.css.map": "/wealth-dog-website/static/css/main.3be16d96.css.map",
+    "main.6ee71535.js.map": "/wealth-dog-website/static/js/main.6ee71535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be16d96.css",
+    "static/js/main.6ee71535.js"
+  ]
+}
